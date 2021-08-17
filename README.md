@@ -1,4 +1,4 @@
-#Generador De Passwords
+# Generador De Passwords
 
 Repositorio de la aplicacion generador de passwords aleatorios hecha en javascript
 
